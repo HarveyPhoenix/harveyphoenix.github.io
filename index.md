@@ -13,4 +13,4 @@ If you're using the GitHub for Mac, simply sync your repository and you'll see t
 
 ### 目录(Table of Contents)
 
-- [测试](http://pages.68fen.com/docs/test)
+- [工具(tools)](./docs/tools)

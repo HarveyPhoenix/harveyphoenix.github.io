@@ -1,16 +1,12 @@
-### Welcome to Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
+### Welcome to FenInnovate Pages.
 
 
-```
-$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-```
+### 工具
 
-If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
+- [网页小工具(web tools)](./docs/tools)
 
 
-### 目录(Table of Contents)
+### 技术随笔
 
-- [工具(tools)](./docs/tools)
+- [gitlab ci 部署应用操作](./docs/gitlabci.md)
+- [ssh-agent 多会话共享解决方案](./docs/sshagent.md)
